@@ -1,0 +1,14 @@
+<h1 id="header" align="center">
+    <pre>mafien0</pre>
+</h1>
+
+NixOS user since 2025  
+Linux User since 2023
+
+## Languages i know
+![My Skills](https://skillicons.dev/icons?i=rust,go,java,kotlin,python,js,lua)
+## Cool things i know and there is an icon for it
+![My Skills](https://skillicons.dev/icons?i=linux,nix,bash,vim,neovim,git,docker,md,deno,nodejs,discordjs)
+## Insert random widgets here
+[![](https://www.mafien0.fyi/static/badges/mafien0.png)](https://mafien0.fyi)  
+![](https://komarev.com/ghpvc/?username=mafien0)
